@@ -1,3 +1,5 @@
+
+ 
  <h1>⛵ Nenhum vento sopra a favor de quem não sabe para onde ir.</h1>
  
  
@@ -5,7 +7,7 @@
     <img width="50%" src="https://raw.githubusercontent.com/DouglasRSena/home/803baebdf053b20abd730df870a46f0d41979ac9/DouglasArt.svg" alt="">
 </div>
  
- <div align="center" style="display: inline_block" ><br>
+ <div align="center" style="display: inline_block" >
   <img align="center" alt="DRS-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="DRS-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="DRS-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,8 +17,8 @@
   <br>
   <img align="center" alt="DRS-ailustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
   <img align="center" alt="DRS-photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-  <img align="center" height="20px" alt="DRS-autocad" src="https://github.com/DouglasRSena/home/blob/main/2560px-AutoCad_logo.svg.png?raw=true" />
-  <img align="center" height="20px" alt="DRS-sketchup" src="https://github.com/DouglasRSena/home/blob/main/2560px-SketchUp_logo.svg.png?raw=true" />
+  <img align="center" alt="DRS-autocad" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/979783ebf7a9757bb7e311af434b8ef8d5e1bb9b/icons8-autocad.svg"/>AutoCad
+  <img align="center" alt="DRS-sketchup" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/979783ebf7a9757bb7e311af434b8ef8d5e1bb9b/icons8-google-sketchup.svg" />SketchUP
    
 </div>
  
