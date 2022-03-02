@@ -4,7 +4,7 @@
  
  
 <div  align="center" >   
-    <img width="50%" src="https://raw.githubusercontent.com/DouglasRSena/home/cece78923d6482653a25e9e5651e490beb5986f5/DouglasArt.svg" alt="Logo DRS com Astronalta meditando na lua">
+    <img width="100%" src="https://raw.githubusercontent.com/DouglasRSena/home/cece78923d6482653a25e9e5651e490beb5986f5/DouglasArt.svg" alt="Logo DRS com Astronalta meditando na lua">
 </div>
  
  <div align="center" style="display: inline_block" >
