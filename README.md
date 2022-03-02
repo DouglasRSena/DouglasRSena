@@ -1,7 +1,7 @@
 
  
- <h1 align="center">🌊 Nenhum vento sopra a favor ⛵<br>
- 🗺 Daquele que não sabe para onde ir 🧭</h1>
+ <h2 align="center">🌊 Nenhum vento sopra a favor ⛵<br>
+ 🗺 Daquele que não sabe para onde ir 🧭</h2>
  
  
 <div  align="center" >   
@@ -15,7 +15,6 @@
   <img align="center" alt="DRS-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="DRS-node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="DRS-jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <br>
   <img align="center" alt="DRS-ailustrator" height="20px" src="https://aleen42.github.io/badges/src/illustrator.svg" />
   <img align="center" alt="DRS-photoshop" height="20px" src="https://aleen42.github.io/badges/src/photoshop.svg" />
   <img align="center" alt="DRS-autocad" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/eb18edd578278af6e130e263ba96f7a6687eb018/autocad.svg"/>
