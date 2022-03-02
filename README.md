@@ -20,10 +20,20 @@
   <img align="center" alt="DRS-autocad" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/eb18edd578278af6e130e263ba96f7a6687eb018/autocad.svg"/>
   <img align="center" alt="DRS-sketchup" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/eb18edd578278af6e130e263ba96f7a6687eb018/sketchup.svg" />
 </div>
- 
- 
- ## Redes Sociais
- <div  align="center">
+
+## Sobre 
+🎓 Atualmente cursando TI - Escola Profissionalizante Santo Agostinho (2/3)<br>
+💼 Estagiário de TI - TCS industrial<br>
+<br>
+Anteriormente aluno de Arquitetura&Urbanismo e grande atuante em Gestão da Qualidade, obtive experiencias como:<br>
+🧩 Tester de software - Portal ISO<br>
+🌍 Gestão, Hospedagem e Gerenciamento de domínios - RegistroCom.com<br>
+🏆 Gestão da qualidade ISO 9001 - Portal ISO<br>
+📚 dentre outras..<br>
+
+
+## Redes Sociais
+<div  align="center">
     <a href="https://instagram.com/douglasrsen?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/douglas-ribeiro-sena-478b94104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
