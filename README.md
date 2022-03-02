@@ -15,11 +15,10 @@
   <img align="center" alt="DRS-node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="DRS-jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <br>
-  <img align="center" alt="DRS-ailustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
-  <img align="center" alt="DRS-photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-  <img align="center" alt="DRS-autocad" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/979783ebf7a9757bb7e311af434b8ef8d5e1bb9b/icons8-autocad.svg"/>AutoCad
-  <img align="center" alt="DRS-sketchup" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/979783ebf7a9757bb7e311af434b8ef8d5e1bb9b/icons8-google-sketchup.svg" />SketchUP
-   
+  <img align="center" alt="DRS-ailustrator" height="20px" src="https://aleen42.github.io/badges/src/illustrator.svg" />
+  <img align="center" alt="DRS-photoshop" height="20px" src="https://aleen42.github.io/badges/src/photoshop.svg" />
+  <img align="center" alt="DRS-autocad" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/eb18edd578278af6e130e263ba96f7a6687eb018/autocad.svg"/>
+  <img align="center" alt="DRS-sketchup" height="20px" src="https://raw.githubusercontent.com/DouglasRSena/home/eb18edd578278af6e130e263ba96f7a6687eb018/sketchup.svg" />
 </div>
  
  
