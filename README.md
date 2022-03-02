@@ -1,6 +1,7 @@
 
  
- <h1 align="center">Nenhum vento sopra a favor daquele que não sabe para onde ir ⛵</h1>
+ <h1 align="center">🌊 Nenhum vento sopra a favor ⛵<br>
+ 🗺 Daquele que não sabe para onde ir 🧭</h1>
  
  
 <div  align="center" >   
