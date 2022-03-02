@@ -31,6 +31,10 @@ Anteriormente aluno de Arquitetura&Urbanismo e grande atuante em Gestão da Qual
 🏆 Gestão da qualidade ISO 9001 - Portal ISO<br>
 📚 dentre outras..<br>
 
+<div  align="center">
+ <h1>☕Café quente, 🎶Musica boa e ⏳Tempo, o cenário perfeito!🌟</h1>
+</div>
+
 
 ## Redes Sociais
 <div  align="center">
